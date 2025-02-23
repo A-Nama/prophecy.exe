@@ -62,10 +62,6 @@ streamlit run app.py
 
 [![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?logo=youtube)](https://your-demo-link.com)  
 
----
-
-## 🔗 Check it out at  
-[🌟 Prophecy.exe on Streamlit Cloud](https://your-streamlit-app-link-here)
 
 ---
 
