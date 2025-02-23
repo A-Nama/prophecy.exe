@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🎥 Demo  
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?logo=youtube)](https://your-demo-link.com)  
+[![Demo Video](https://youtu.be/H5TH_KUrEZ4)  
 
 
 ---
