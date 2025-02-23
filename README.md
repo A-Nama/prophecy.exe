@@ -1,6 +1,6 @@
-# 🔮 prophecy.exe – AI-Powered Fortune Teller  
+# 🔮 Prophecy.exe – AI-Powered Fortune Teller  
 
-**prophecy.exe** is an open-source AI-powered digital fortune teller that reads **facial features and emotions** to generate fun and mystical prophecies. It uses **MediaPipe FaceMesh, DeepFace, and Streamlit** to analyze face symmetry, shape, and expressions to craft unique predictions.  
+**Prophecy.exe** is an open-source AI-powered digital fortune teller that reads **facial features and emotions** to generate fun and mystical prophecies. It uses **MediaPipe FaceMesh, DeepFace, and Streamlit** to analyze face symmetry, shape, and expressions to craft unique predictions.  
 
 ---
 
@@ -61,6 +61,11 @@ streamlit run app.py
 ## 🎥 Demo  
 
 [![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?logo=youtube)](https://your-demo-link.com)  
+
+---
+
+## 🔗 Check it out at  
+[🌟 Prophecy.exe on Streamlit Cloud](https://your-streamlit-app-link-here)
 
 ---
 
